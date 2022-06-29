@@ -1,6 +1,6 @@
 {
   "name": "nest-validation-pipe",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "inherits ValidationPipe of @nestjs/common, but provides override options decorator",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
