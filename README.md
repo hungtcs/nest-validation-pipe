@@ -2,6 +2,11 @@
 
 Inherits `ValidationPipe` of `@nestjs/common`, but provides override options decorator.
 
+Related:
+
+- https://github.com/nestjs/nest/issues/2390
+- https://github.com/nestjs/nest/issues/7779
+
 ## Installation
 
 ```shell
